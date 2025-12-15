@@ -1,28 +1,119 @@
-<h1 align="center">Hi 👋, I'm Dharecha manoj</h1>
-<h3 align="center">A MCA Student (Semester 3)</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Classroom**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dharecha%20Manoj&fontSize=40&fontColor=ffffff" />
 
-- 🌱 I’m currently learning **Machine Learning & AI**
+### 👋 Hi, I'm **Dharecha Manoj**
+🎓 MCA Student (Semester 3) | 💻 Fresher Developer  
+🚀 Aspiring **Full-Stack & AI Engineer**
 
-- 👯 I’m looking to collaborate on **AI and ML Projects**
+</div>
 
-- 🤝 I’m looking for help with **designer**
+---
 
-- 💬 Ask me about **react ,AI models**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **dharechamanoj3@gmail.com**
+I am a **motivated fresher MCA student** with hands-on experience in **full-stack web development** and a growing interest in **Machine Learning & Artificial Intelligence**.  
+I enjoy building real-world projects, learning new technologies, and continuously improving my skills.  
+Currently, I am seeking **internship or entry-level opportunities** where I can learn, contribute, and grow.
 
-- ⚡ Fun fact **I think I am introvert**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-dharecha-a8b537374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-dharecha-a8b537374/" height="30" width="40" /></a>
-</p>
+## 🔭 Currently Working On
+- 📚 **Classroom Management System** (Full-Stack Web Application)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharecha&show_icons=true&locale=en&layout=compact" alt="dharecha" /></p>
+## 🌱 Currently Learning
+- Machine Learning & AI  
+- AI Models (TensorFlow, PyTorch)  
+- Backend Development & REST APIs  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharecha&" alt="dharecha" /></p>
+---
+
+## 🎯 Career Objective
+- Secure a **Web Development / AI / ML Internship**
+- Gain industry-level experience
+- Build scalable and intelligent applications
+
+---
+
+## 👯 Open to Collaborate On
+- Beginner-friendly AI & ML projects  
+- Full-stack web applications  
+- Open-source contributions  
+
+---
+
+## 🤝 Looking for Help With
+- UI / UX Design  
+- Frontend design improvements  
+
+---
+
+## 💬 Ask Me About
+- React.js  
+- Node.js & Express  
+- AI / ML basics  
+
+---
+
+## 📫 Contact Me
+📧 **Email:** dharechamanoj3@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/manoj-dharecha-a8b537374/
+
+---
+
+## ⚡ Fun Fact
+I’m an introvert, but I enjoy collaborating through code 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+
+### 🧠 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharecha&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharecha&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+⭐ **Actively looking for internship and fresher opportunities.  
+Feel free to connect or collaborate!**
