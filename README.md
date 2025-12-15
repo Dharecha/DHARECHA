@@ -109,7 +109,10 @@ I’m an introvert, but I enjoy collaborating through code 😄
 
 <img src="https://github-readme-stats.vercel.app/api?username=dharecha&show_icons=true&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharecha&theme=tokyonight" height="160"/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=Dharecha&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
 
 </div>
 
