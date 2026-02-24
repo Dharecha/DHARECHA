@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dharecha%20Manoj&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9ED8,50:C77DFF,100:7B2CBF&height=180&section=header&text=Dharecha%20Manoj&fontSize=40&fontColor=ffffff" />
 
 ### 👋 Hi, I'm **Dharecha Manoj**
 🎓 MCA Student (Semester 3) | 💻 Fresher Developer  
